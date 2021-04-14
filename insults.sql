@@ -161,4 +161,5 @@ INSERT INTO noun (string) VALUES ('vassal');
 INSERT INTO noun (string) VALUES ('whey-face');
 INSERT INTO noun (string) VALUES ('wagtail');
 
+INSERT INTO noun (string) VALUES('newswear');
 COMMIT;
